@@ -129,5 +129,5 @@
 [https://ghostli.eu](https://ghostli.eu)  
 **Best AI programming assistant**
 
-![Ghostli Logo](https://cdn.discordapp.com/attachments/946121508965740664/1428469643412242574/gh.png?ex=68f29d86&is=68f14c06&hm=61b36e56fddd8d42f3c99a13e795b76a60e408eea2cfbf88fcfcbfdb4b6a3cde&)
+![Ghostli Logo](https://media.discordapp.net/attachments/946121508965740664/1428469643412242574/gh.png?ex=69051286&is=6903c106&hm=e69eeaf2ccdd1745d82d282d4810475a2d684423f788aea9846649b520112118&=&format=webp&quality=lossless)
 
