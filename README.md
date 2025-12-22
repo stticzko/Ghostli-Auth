@@ -126,8 +126,8 @@
 - **Memory**: sensitive buffers wiped automatically after use.  
 - **Migration**: encrypted format supports safe migration and backward compatibility.
 
-[https://ghostli.eu](https://ghostli.eu)  
+[https://ghostliai.eu](https://ghostliai.eu)  
 **Best AI programming assistant**
 
-![Ghostli Logo](https://media.discordapp.net/attachments/1117102302956888195/1435768728381034668/head_4.png?ex=69283214&is=6926e094&hm=713e2f8d1ae4f685c35d513b1a872c994b063bd1365e2b948c8927b2913044e6&=&format=webp&quality=lossless)
+![Ghostli Logo](https://ghostliai.eu/images/head.png)
 
